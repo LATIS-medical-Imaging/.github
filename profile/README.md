@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="http://www.ptm.tn:555/">Website</a> •
-  <a href="http://mcddocs.ptm.tn:555/index.html">Documentation</a>
+  <a href="https://www.ptm.tn/">Website</a> •
+  <a href="https://mcddocs.ptm.tn/">Documentation</a>
 </p>
 
 ---
@@ -38,9 +38,9 @@ Key features include:
 * Dataset and COCO integration
 * Extensible AI and image-processing pipelines
 
-📚 [Documentation](http://mcddocs.ptm.tn:555/index.html)
+📚 [Documentation](https://mcddocs.ptm.tn/)
 
-🌐 [Project Website](http://www.ptm.tn:555/)
+🌐 [Project Website](https://www.ptm.tn/)
 
 ---
 
@@ -74,8 +74,8 @@ We aim to build open tools that help researchers and developers transform medica
 
 ## 🌐 Links
 
-* **Website:** http://www.ptm.tn:555/
-* **Documentation:** http://mcddocs.ptm.tn:555/index.html
+* **Website:** https://www.ptm.tn/
+* **Documentation:** https://mcddocs.ptm.tn/
 * **GitHub:** https://github.com/LATIS-medical-Imaging
 
 ---
